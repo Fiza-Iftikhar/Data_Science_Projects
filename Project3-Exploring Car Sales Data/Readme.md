@@ -1,6 +1,6 @@
 # Project3 - Exploring ebay Car Sales Data
- - In this project, we'll work with a dataset of used cars from German eBay website.
- - The data dictionary is as follows:
+ In this project, we'll work with a dataset of used cars from German eBay website.
+ The data dictionary is as follows:
   - dateCrawled - When this ad was first crawled.
   - name - Name of the car.
   - seller - Whether the seller is private or a dealer.
