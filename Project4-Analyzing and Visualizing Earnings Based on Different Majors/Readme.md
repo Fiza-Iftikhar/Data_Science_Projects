@@ -22,3 +22,20 @@
    * Dominant Major_category for Men and Women
    * Top Majors in Dominant category according to the highest Employment
    * Top Majors in Dominant category according to highest Median Salary
+
+
+![Dominant Major_catogery for Men and Women](https://user-images.githubusercontent.com/70064467/121692449-f4fe6400-ca7c-11eb-8ecf-b076bfa873a3.png)
+
+
+![Top Majors in Dominant category of Men according to the highest Employment](https://user-images.githubusercontent.com/70064467/121692470-f92a8180-ca7c-11eb-92d4-291cc6d93ee7.png)
+
+
+![Top Majors in Dominant category of Women according to the highest Employment](https://user-images.githubusercontent.com/70064467/121692506-00518f80-ca7d-11eb-9aec-5c47609d62a5.png)
+
+
+
+![Top Majors in Dominant category of Men according to the highest Salary](https://user-images.githubusercontent.com/70064467/121692519-047dad00-ca7d-11eb-9afb-596c04ad865a.png)
+
+
+
+![Top Majors in Dominant category of Women according to the highest Salary](https://user-images.githubusercontent.com/70064467/121692554-0b0c2480-ca7d-11eb-8f6d-3afea72d3c02.png)
