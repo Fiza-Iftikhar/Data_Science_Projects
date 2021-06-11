@@ -5,3 +5,8 @@
 
     * Are employees who only worked for the institutes for a short period of time resigning due to some kind of dissatisfaction? What about employees who have been there longer?
     * Are younger employees resigning due to some kind of dissatisfaction? What about older employees?
+
+
+
+
+![Categories of Dissatisfied Employee's](https://user-images.githubusercontent.com/70064467/121692942-79e97d80-ca7d-11eb-84ad-9d8039446505.png)
