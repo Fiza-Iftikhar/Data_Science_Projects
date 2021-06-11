@@ -7,3 +7,11 @@
         1. Do `Ask HN` or `Show HN` receive more comments on average?
 
         2. Do posts created at a certain time receive more comments on average?
+        
+        
+        
+![Comparision of posts comments](https://user-images.githubusercontent.com/70064467/121692047-87523800-ca7c-11eb-8033-6ea8ff8d337f.png)
+
+
+![Comparison of Average Posts and Comments on Hourly basis](https://user-images.githubusercontent.com/70064467/121692073-8caf8280-ca7c-11eb-8f39-61dff41f7fa1.png)
+
