@@ -24,3 +24,9 @@
  
  ### The aim of this project is to analyze the used car listings
 
+
+
+                ![Popular_Brands](https://user-images.githubusercontent.com/70064467/121692208-b9639a00-ca7c-11eb-960f-9fa40e3596e5.png)
+
+
+                ![Brand's price and mileage comparision](https://user-images.githubusercontent.com/70064467/121692230-c1233e80-ca7c-11eb-9ed0-95ba57d2e487.png)
