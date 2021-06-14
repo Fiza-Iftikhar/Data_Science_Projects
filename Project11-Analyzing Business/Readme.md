@@ -5,9 +5,9 @@ Examples of metrics that are followed by governments are GDP, inflation, and une
   - In this project, we'll focus on some business metrics, and explore some metrics in different business scenarios. What's important to understand is that metrics are observed 
 across time. Metrics are calculated separately at specific points in time.
 
-### Following two types of business metrics that we will work on:
-   - [**Net Promoter Score(NPS)**](https://github.com/Fiza-Iftikhar/Data_Science_Projects/blob/main/Project11-Analyzing%20Business/Project11.1-Net%20Promoter%20Score(NPS).ipynb)
-        - - **Net Promoter Score (NPS)** is an indicator to measure the customer's loyalty. **NPS** is a metric that assesses the willingness of the customers to recommend a company's products or services to other people. **NPS** metric used by many companies to track cuutomer's satisfaction. The main aim is to identify customers who are less satisfied with the customer experience or product and transform them into the company's promoters. The higher the **NPS**, the greater the customer has loyalty towards a company, brand or service etc. 
+## Following two types of business metrics that we will work on:
+   - [### **Net Promoter Score(NPS)**](https://github.com/Fiza-Iftikhar/Data_Science_Projects/blob/main/Project11-Analyzing%20Business/Project11.1-Net%20Promoter%20Score(NPS).ipynb)
+      - **Net Promoter Score (NPS)** is an indicator to measure the customer's loyalty. **NPS** is a metric that assesses the willingness of the customers to recommend a company's products or services to other people. **NPS** metric used by many companies to track cuutomer's satisfaction. The main aim is to identify customers who are less satisfied with the customer experience or product and transform them into the company's promoters. The higher the **NPS**, the greater the customer has loyalty towards a company, brand or service etc. 
 
 ### How to calculate Net Promoter Score?
    - **NPS** calculation is based on a customer survey. In the survey one question is mostly framed as "On a scale of 0 to 10, how likely would you recommend our product/service to other people?"
