@@ -6,7 +6,7 @@ Examples of metrics that are followed by governments are GDP, inflation, and une
 across time. Metrics are calculated separately at specific points in time.
 
 ## Following two types of business metrics that we will work on:
-   - [### **Net Promoter Score(NPS)**](https://github.com/Fiza-Iftikhar/Data_Science_Projects/blob/main/Project11-Analyzing%20Business/Project11.1-Net%20Promoter%20Score(NPS).ipynb)
+   - [**Net Promoter Score(NPS)**](https://github.com/Fiza-Iftikhar/Data_Science_Projects/blob/main/Project11-Analyzing%20Business/Project11.1-Net%20Promoter%20Score(NPS).ipynb)
       - **Net Promoter Score (NPS)** is an indicator to measure the customer's loyalty. **NPS** is a metric that assesses the willingness of the customers to recommend a company's products or services to other people. **NPS** metric used by many companies to track cuutomer's satisfaction. The main aim is to identify customers who are less satisfied with the customer experience or product and transform them into the company's promoters. The higher the **NPS**, the greater the customer has loyalty towards a company, brand or service etc. 
 
 ### How to calculate Net Promoter Score?
@@ -23,4 +23,9 @@ across time. Metrics are calculated separately at specific points in time.
 ### From this dataset, we calculate the Net Promoter Score(NPS) on monthly basis.
 
 ![Monthly NPS Comparison](https://user-images.githubusercontent.com/70064467/121932349-a4476f00-ccf9-11eb-92f6-ed9b56680e8d.png)
+
+### CONCLUSION:
+   - We can see that the NPS varies every month, from high to low. From the starting year, NPS is higher but we can see that at the end of the year NPS is at its lowest point. From that, we can say that customers are not satisfied with the business products or services. Or maybe the company was changed their policy, product/service rates or make new strategies that didn't work for them. The company should keenly observe the impact on the business due to the changes they made.  
+ - It is not necessary that if NPS is low then it means your customer is not satisfied or your business is not working good. A company should compare their NPS with their industry. There is a possibility that the pandemic and the subsequent limitations have hit hard to the market but your business NPS is good as compared to other industries.
+ - To understand your Net Promoter Score better, start by comparing it with the average scores within your industry, and against competitors. This is also referred to as the relative method, as opposed to the absolute method, which involves benchmarking your number to an agreed standard across industries for what a good NPS is. When comparing NPS scores, it’s important to understand what market you’re operating in. Some businesses have a more positive image than others.
 
