@@ -6,4 +6,4 @@ Examples of metrics that are followed by governments are GDP, inflation, and une
 across time. Metrics are calculated separately at specific points in time.
 
 ### Following two types of business metrics that we will work on:
-   - [https://github.com/Fiza-Iftikhar/Data_Science_Projects/blob/main/Project11-Analyzing%20Business/Project11.1-Net%20Promoter%20Score(NPS).ipynb]
+   - https://github.com/Fiza-Iftikhar/Data_Science_Projects/blob/main/Project11-Analyzing%20Business/Project11.1-Net%20Promoter%20Score(NPS).ipynb
