@@ -30,5 +30,13 @@ across time. Metrics are calculated separately at specific points in time.
  - To understand your Net Promoter Score better, start by comparing it with the average scores within your industry, and against competitors. This is also referred to as the relative method, as opposed to the absolute method, which involves benchmarking your number to an agreed standard across industries for what a good NPS is. When comparing NPS scores, it’s important to understand what market you’re operating in. Some businesses have a more positive image than others.
 
 
-    2. [**Churn Rate**] 
+   2. [**Churn Rate**] (https://github.com/Fiza-Iftikhar/Data_Science_Projects/blob/main/Project11-Analyzing%20Business/Project11.2-Analyzing%20Business(Churn%20Rate).ipynb)
+     - **Churn Rate:** Churn means the number of customers or subscribers who stop using your services during a given period.
+     - **How to calculate Churn Rate:**
+        - **Churn Rate  =  No. of customers left / (No. of customers left + No. of customers existing)**
+     ### A hypothetical scenario is created to analyze the one of business metric i.e. Churn Rate
+      - **Scenario:** It is a local gym "Muscle labs" subscription dataset. This gym was bought by some other person on 1 January 2013. Now it's early December 2014 and the gym owner wants to check the one-year performance of the gym.
+   
+### As a data analyst, we aim to find out the churn rate of the gym.
+  
 
