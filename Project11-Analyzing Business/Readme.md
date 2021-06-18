@@ -30,7 +30,7 @@ across time. Metrics are calculated separately at specific points in time.
  - To understand your Net Promoter Score better, start by comparing it with the average scores within your industry, and against competitors. This is also referred to as the relative method, as opposed to the absolute method, which involves benchmarking your number to an agreed standard across industries for what a good NPS is. When comparing NPS scores, it’s important to understand what market you’re operating in. Some businesses have a more positive image than others.
 
 
-   2. [**Churn Rate**] (https://github.com/Fiza-Iftikhar/Data_Science_Projects/blob/main/Project11-Analyzing%20Business/Project11.2-Analyzing%20Business(Churn%20Rate).ipynb)
+ 2. [**Churn Rate**] (https://github.com/Fiza-Iftikhar/Data_Science_Projects/blob/main/Project11-Analyzing%20Business/Project11.2-Analyzing%20Business(Churn%20Rate).ipynb)
      - **Churn Rate:** Churn means the number of customers or subscribers who stop using your services during a given period.
      - **How to calculate Churn Rate:**
         - **Churn Rate  =  No. of customers left / (No. of customers left + No. of customers existing)**
@@ -39,4 +39,12 @@ across time. Metrics are calculated separately at specific points in time.
    
 ### As a data analyst, we aim to find out the churn rate of the gym.
   
+![Churn Rate of the gym](https://user-images.githubusercontent.com/70064467/122606277-85184c80-d02d-11eb-9f19-995513cd4e2f.png)
 
+### CONCLUSION
+   - From the analysis, we can see that the churn rate is very erratic at the beginning. In the starting months when we take over the business in January 2013, the churn rate started to become more stable.
+   - But there at the end of 2013 and beginning of 2014, there was a relatively large spike in the churn rate (circled). Maybe the increased rate is due to the subscription expired because one year is completed. And when the subscription expired automatically person is churned.
+   - A few actions that we could take to reactivate these customers are:
+        - Make a new promotion specifically for the quitters.
+        - Make a new promotion specifically for the customers who attended the gym until the end.
+        - Throw in some perks in addition to the standard service for the customers who didn't quit.
