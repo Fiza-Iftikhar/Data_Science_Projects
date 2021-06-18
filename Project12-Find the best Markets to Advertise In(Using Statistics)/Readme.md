@@ -8,7 +8,6 @@
 ### Check the relevancy of the data according to our area of interest i.e web and mobile development
 
 ![Most Interested Participants](https://user-images.githubusercontent.com/70064467/122596171-547ce680-d01e-11eb-848e-68e008fab238.png)
-
 - From our analysis, we can see that 86.2% of data shows the relevancy towards our aim. Which means that most of the people in this survey (roughly 86%) are interested in either web or mobile development. These figures offer us a strong reason to consider this sample representative for our population of interest.
 
 
@@ -24,7 +23,7 @@
 
 
 ### CONCLUSION:
-    - From analysis we can see that one country we should advertise in is the US. Lots of new coders live there and they are willing to pay a good amount of money each month. We sell subscriptions at a price of **\$59** per month, and Canada seems to be the best second choice because people there are willing to pay roughly **$93** per month, compared to India and the United Kingdom. The data suggests strongly that we shouldn't advertise in the UK, 
+   - From analysis we can see that one country we should advertise in is the US. Lots of new coders live there and they are willing to pay a good amount of money each month. We sell subscriptions at a price of **\$59** per month, and Canada seems to be the best second choice because people there are willing to pay roughly **$93** per month, compared to India and the United Kingdom. The data suggests strongly that we shouldn't advertise in the UK, 
    - At this point, it seems that we have several options:
         - Advertise in the US, India, and Canada by splitting the advertisement budget in various combinations:
                 - 80% for the US, 10% for India, 10% for Canada.
