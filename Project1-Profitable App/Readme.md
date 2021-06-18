@@ -5,3 +5,6 @@
 
  - [A data set](https://www.kaggle.com/lava18/google-play-store-apps/home) containing data about approximately ten thousand Android apps from Google Play
 ![Most Installed App category](https://user-images.githubusercontent.com/70064467/121635298-d8413c80-ca3a-11eb-99e7-da0b92a314ad.png)
+
+### Conclusion
+   - From the above analysis we conclude that, the most installed app categories are Communication, vedio players and social apps. And these app categories have a big competitor like whatsapp, Youtube, Facebook and instagram etc. So, to decide which app we should develop we should further do an analysis according to the business requirments. Or we should discuss with the top management as they know what kind of app will be possible for them to develop according to the needs of their business requriment and decision also rely on the budget constraints.
