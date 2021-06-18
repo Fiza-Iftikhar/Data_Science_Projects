@@ -7,7 +7,7 @@ across time. Metrics are calculated separately at specific points in time.
 
 ## Following two types of business metrics that we will work on:
    1. [**Net Promoter Score(NPS)**](https://github.com/Fiza-Iftikhar/Data_Science_Projects/blob/main/Project11-Analyzing%20Business/Project11.1-Net%20Promoter%20Score(NPS).ipynb)
-      - **Net Promoter Score (NPS)** is an indicator to measure the customer's loyalty. **NPS** is a metric that assesses the willingness of the customers to recommend a company's products or services to other people. **NPS** metric used by many companies to track cuutomer's satisfaction. The main aim is to identify customers who are less satisfied with the customer experience or product and transform them into the company's promoters. The higher the **NPS**, the greater the customer has loyalty towards a company, brand or service etc. 
+   - **Net Promoter Score (NPS)** is an indicator to measure the customer's loyalty. **NPS** is a metric that assesses the willingness of the customers to recommend a company's products or services to other people. **NPS** metric used by many companies to track cuutomer's satisfaction. The main aim is to identify customers who are less satisfied with the customer experience or product and transform them into the company's promoters. The higher the **NPS**, the greater the customer has loyalty towards a company, brand or service etc. 
 
 ### How to calculate Net Promoter Score?
    - **NPS** calculation is based on a customer survey. In the survey one question is mostly framed as "On a scale of 0 to 10, how likely would you recommend our product/service to other people?"
@@ -28,10 +28,8 @@ across time. Metrics are calculated separately at specific points in time.
    - We can see that the NPS varies every month, from high to low. From the starting year, NPS is higher but we can see that at the end of the year NPS is at its lowest point. From that, we can say that customers are not satisfied with the business products or services. Or maybe the company was changed their policy, product/service rates or make new strategies that didn't work for them. The company should keenly observe the impact on the business due to the changes they made.  
  - It is not necessary that if NPS is low then it means your customer is not satisfied or your business is not working good. A company should compare their NPS with their industry. There is a possibility that the pandemic and the subsequent limitations have hit hard to the market but your business NPS is good as compared to other industries.
  - To understand your Net Promoter Score better, start by comparing it with the average scores within your industry, and against competitors. This is also referred to as the relative method, as opposed to the absolute method, which involves benchmarking your number to an agreed standard across industries for what a good NPS is. When comparing NPS scores, it’s important to understand what market you’re operating in. Some businesses have a more positive image than others.
-
-
-
-2. [**Churn Rate**] (https://github.com/Fiza-Iftikhar/Data_Science_Projects/blob/main/Project11-Analyzing%20Business/Project11.2-Analyzing%20Business(Churn%20Rate).ipynb)
+  
+   2. . [**Churn Rate**] (https://github.com/Fiza-Iftikhar/Data_Science_Projects/blob/main/Project11-Analyzing%20Business/Project11.2-Analyzing%20Business(Churn%20Rate).ipynb)
      - **Churn Rate:** Churn means the number of customers or subscribers who stop using your services during a given period.
      - **How to calculate Churn Rate:**
         - **Churn Rate  =  No. of customers left / (No. of customers left + No. of customers existing)**
@@ -49,3 +47,8 @@ across time. Metrics are calculated separately at specific points in time.
         - Make a new promotion specifically for the quitters.
         - Make a new promotion specifically for the customers who attended the gym until the end.
         - Throw in some perks in addition to the standard service for the customers who didn't quit.
+
+      
+
+
+
