@@ -1,4 +1,5 @@
 # Project5- Exploring and Visualizing The Gender Gap
 
 
-![comp](https://user-images.githubusercontent.com/70064467/121692774-4870b200-ca7d-11eb-8ad8-c45e0b31986a.jpeg)
+![comp](https://user-images.githubusercontent.com/70064467/122599636-8b093000-d023-11eb-8524-1b9355b8494a.jpeg)
+
