@@ -10,3 +10,6 @@
 
 
 ![Categories of Dissatisfied Employee's](https://user-images.githubusercontent.com/70064467/121692942-79e97d80-ca7d-11eb-84ad-9d8039446505.png)
+
+## Conlusion
+   - From the above visualization, we see that new employees are least dissatisfied with their jobs than others. And the majority of the employees who are dissatisfied with their jobs are Veterans, who have more than 11 years of experience in a company.
