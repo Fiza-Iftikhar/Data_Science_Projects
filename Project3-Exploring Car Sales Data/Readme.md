@@ -24,12 +24,10 @@
  
  ### The aim of this project is to analyze the used car listings
 
-
-
-   ![Popular_Brands](https://user-images.githubusercontent.com/70064467/121692208-b9639a00-ca7c-11eb-960f-9fa40e3596e5.png)
+   ![Popular_Brands](https://user-images.githubusercontent.com/70064467/122637790-681f6000-d0a5-11eb-8217-1cc9ed0d028b.png)
 
  ### Why volkswagen sold the most?
-   ![Brand's price and mileage comparision](https://user-images.githubusercontent.com/70064467/121692230-c1233e80-ca7c-11eb-9ed0-95ba57d2e487.png)
+   ![Brand's price and mileage comparision](https://user-images.githubusercontent.com/70064467/122637780-5d64cb00-d0a5-11eb-955f-58c5dda6861f.png)
    
   ### CONCLUSION:
    - We can see that average milage of a cars are almost same but the price of volkswagen are comparative less than audi, mercedes and bmw. Thats why volkswagen is a most popular car because it gives good milage with reasonable price.
