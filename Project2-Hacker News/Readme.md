@@ -1,4 +1,4 @@
-# Project2 - Exploring Hacker News Posts
+# [Project2-Exploring Hacker News Posts](https://github.com/Fiza-Iftikhar/Data_Science_Projects/blob/main/Project2-Hacker%20News/Project2-Hacker%20News.ipynb)
    - In this project, we'll work with a data set of submissions to popular technology site [Hacker News](https://news.ycombinator.com/). Hacker News is a site where user-submitted stories (known as `"posts"`) are voted and commented upon.
    - We're specifically interested in posts whose titles begin with either **Ask HN** or **Show HN**. Users submit `Ask HN` posts to ask the Hacker News community a specific question
    - Likewise, users submit `Show HN` posts to show the Hacker News community a project, product, or just generally something interesting.
